@@ -22,7 +22,7 @@ A step by step series of examples that tell you how to get a development env run
 Download the files
 ```
 
-Then open up the todolist and or cd to the folder
+Then open up the todolist and or cd to the folder and run npm init
 
 ```
 npm i express body-parser
