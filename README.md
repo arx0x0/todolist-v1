@@ -25,8 +25,12 @@ Download the files
 Then open up the todolist and or cd to the folder and run npm init
 
 ```
-npm i express body-parser
+Next: npm i 
 ```
+
+'''
+Finally: npm start
+'''
 
 ## Built With
 
