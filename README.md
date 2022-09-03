@@ -28,9 +28,9 @@ Then open up the todolist and or cd to the folder and run npm init
 Next: npm i 
 ```
 
-'''
+```
 Finally: npm start
-'''
+```
 
 ## Built With
 
