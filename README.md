@@ -1,6 +1,6 @@
 # todolist-v1
 
-Simple easy to use To Do List project, with javascript, express, and node
+Simple easy to use To Do List project, with JavaScript, Express, and node.JS
 
 ## Getting Started
 
