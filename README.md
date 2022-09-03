@@ -19,10 +19,14 @@ A step by step series of examples that tell you how to get a development env run
 
 
 ```
-Download the files
+Git Clone the repository to your terminal (make sure you are cd'd over to desktop)
 ```
 
-Then open up the todolist and or cd to the folder and run npm init
+Then open up the todolist or cd to the todolist and then run: 
+
+```
+First: npm init 
+```
 
 ```
 Next: npm i 
